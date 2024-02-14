@@ -1,0 +1,138 @@
+#box{
+    /* Rectangle 32 */
+
+position: absolute;
+width: 440px;
+height: 658px;
+left: 0px;
+top: 178px;
+
+background: rgba(24, 23, 95, 0.78);
+
+}
+
+#main{
+    /* About Us */
+
+position: absolute;
+width: 753px;
+height: 310px;
+left: 72px;
+top: 239px;
+
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 123px;
+
+color: #FFFFFF;
+
+
+}
+
+#text{
+    /* Victory Holdings PLC is a leading conglomerate company and also the Sri Lanka’s premier diversified company, which is also listed in the Colombo Stock Exchange. As a company with globally distributed stakeholders, this Online Voting System facilitates a reliable, efficient and secure platform for voting without being required to attend every Board Meeting. No any personalized ID is required and your confidentiality in voting is highly secured. */
+
+position: absolute;
+width: 791px;
+height: 225px;
+left: 47px;
+top: 411px;
+
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+
+}
+
+
+#img{
+    /* image 8 */
+
+position: absolute;
+width: 547px;
+height: 308px;
+left: 858px;
+top: 312px;
+
+
+}
+
+.back{
+    /* Group 3 */
+
+position: absolute;
+width: 219px;
+height: 57px;
+left: 858px;
+top: 875px;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 219px;
+height: 57px;
+left: 858px;
+top: 875px;
+
+
+
+/* Head */
+
+position: absolute;
+width: 219px;
+height: 57px;
+left: 858px;
+top: 875px;
+
+
+
+/* buttons */
+
+position: absolute;
+width: 219px;
+height: 57px;
+left: 858px;
+top: 875px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 219px;
+height: 57px;
+left: 858px;
+top: 875px;
+
+background: #D5623D;
+border-radius: 14px;
+
+
+/* Back */
+
+position: absolute;
+width: 155px;
+height: 52px;
+left: 660px;
+top: 698px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}

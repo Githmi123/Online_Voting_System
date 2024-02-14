@@ -1,0 +1,84 @@
+body{
+    background-color: #18175F;
+  }
+
+  #row {
+    display: flex;
+  }
+  
+  #column {
+    flex: 50%;
+    padding: 50;
+    margin: 0;
+    
+  }
+
+  #registerButton{
+    position: absolute;
+    width: 600px;
+    height: 57px;
+    left: 588px;
+    top: 603px;
+    background: #8AB5E5;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #register-button-text
+  {
+    width: 228px;
+    height: 30px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 32px;
+    color: #FFFFFF;
+  }
+
+  #login{
+    /* Group 2 */
+
+
+position: absolute;
+width: 123px;
+height: 42px;
+left: 1319px;
+top: 0px;
+
+
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+
+background: rgba(138, 181, 229, 0.09);
+border: 2px solid #FFFFFF;
+border-radius: 14px;
+color: #FFFFFF;
+  }
+
+
+  .text{
+    /* About */
+/* About */
+
+position: absolute;
+width: 74px;
+height: 29px;
+left: 953px;
+top: 97px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  }

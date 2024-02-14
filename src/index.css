@@ -1,0 +1,48 @@
+:root {
+  /* --bodyColor: "#18175F"; */
+}
+
+body {
+  /* background-color: var(--bodyColor); */
+}
+#he{
+  /* background-color: #18175F; */
+  width: 100%;
+  height: 100%;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* img{
+  max-width: 600px;
+  float: left;
+  padding-left: 0%;
+  
+} */
+
+wrapper{
+  margin: 150px auto;
+  width: 10%;
+  align-content:space-evenly;
+
+}
+h1{
+  display: inline;
+  align-content:stretch;
+}
+#he1{
+  /* background-color: #18175F; */
+  width: 100%;
+  height: 100%;
+}
+.background-red {
+  background-color: #ff0000;
+}
+
+.background-blue {
+  /* background-color: blue; */
+}

@@ -1,0 +1,15 @@
+#button{
+     /* Adjust the top position to move the entire button */
+  background: #D5623D;
+  border-radius: 14px;
+  /* display: flex; */
+  align-items: center; /* Center text vertically */
+  justify-content: center;
+  font-family: sans-serif;
+  /* font-style: normal; */
+  font-weight: 400;
+  font-size: 15px;
+  font-variant: normal;
+  line-height: 32px;
+  color: #FFFFFF;
+}
